@@ -1,0 +1,54 @@
+h1 {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+a {
+    color: darkgreen;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+h3 {
+    color: rgba(0, 0, 139, 0.8);
+}
+
+pre {
+    font-family: monospace;
+}
+
+del {
+    color: gray;
+}
+
+mark {
+    color: darkblue;
+    background-color: pink;
+}
+
+.transparent-text {
+    color:rgba(0, 0, 0, 0.5);
+}
+
+div {
+    background: #DCF5F5;
+    background-image: url('cross.png');
+    background-position:top;
+}
+
+.blue {
+    color: blue;
+}
+
+.fancy {
+    font-family: cursive;
+}
+
+#content {
+    background-color: white;
+}
