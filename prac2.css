@@ -36,7 +36,7 @@ mark {
 }
 
 div {
-    background: #DCF5F5;
+    background-color: #DCF5F5;
     background-image: url('cross.png');
     background-position:top;
 }
@@ -51,4 +51,42 @@ div {
 
 #content {
     background-color: white;
+}
+
+.red-border {
+    border-style: solid;
+    border-color: red;
+}
+
+.blue-border {
+    border-style: solid;
+    border-color: blue;
+}
+
+.red-outline {
+    outline-style: solid;
+    outline-color: red;
+}
+
+.page {
+    background-color: #DCF5F5;
+}
+
+.div-border {
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkgray;
+    border-radius: 8px;
+}
+
+.red-border2 {
+    border-style: solid solid none solid;
+    border-color: red;
+    border-radius: 8px 8px 0 0;
+}
+
+.blue-border2 {
+    border-style: solid;
+    border-color: blue;
+    border-radius: 0 0 8px 8px;
 }
