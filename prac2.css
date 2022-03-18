@@ -115,10 +115,8 @@ body {
 }
 
 .innerdiv2 {
-    position: center;
     height: 400px;
     width: 400px;
-    position: center;
     padding: 12px;
     margin: 0 auto;
     background-color: yellow;
