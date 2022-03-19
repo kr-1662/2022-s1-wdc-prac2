@@ -134,3 +134,9 @@ body {
 .fa-solid fa-share-nodes {
     color: #BFCFD4;
 }
+
+.inline {
+    display: inline;
+    padding: 8px;
+    background: gray;
+}
