@@ -97,9 +97,9 @@ body {
 }
 
 .innerdiv1 {
-    width: 658px;
+    width: 659px;
     border: 1px solid red;
-    height: 178px;
+    height: 179px;
     padding: 12px;
     margin: 10px 20px;
     text-align: right;
@@ -114,12 +114,13 @@ body {
 }
 
 .innerdiv2 {
-    height: 400px;
-    width: 400px;
+    height: 376px;
+    width: 376px;
     padding: 12px;
-    margin: 0 auto;
+    margin: auto;
     background-color: yellow;
     text-align: right;
+    border: solid red;
 }
 
 .fa-brands fa-facebook-f {
