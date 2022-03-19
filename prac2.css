@@ -142,10 +142,6 @@ h2 {
     font-family: 'Raleway', sans-serif;
 }
 
-p {
-    font-family: 'Noto Serif', sans-serif;
-}
-
 blockquote {
     font-family: 'Raleway', sans-serif;
     color: dimgrey;
@@ -161,3 +157,6 @@ h4 {
     text-decoration-line: underline;
 }
 
+body {
+    font-family: 'Noto Serif', serif;
+}
