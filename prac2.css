@@ -157,5 +157,7 @@ blockquote {
 h4 {
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
+    font-style: italic;
+    text-decoration-line: underline;
 }
 
