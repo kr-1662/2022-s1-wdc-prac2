@@ -123,16 +123,9 @@ body {
     border: 1px solid red;
 }
 
-.fa-brands fa-facebook-f {
+.icons {
     color: #BFCFD4;
-}
-
-.fa-brands fa-twitter {
-    color: #BFCFD4;
-}
-
-.fa-solid fa-share-nodes {
-    color: #BFCFD4;
+    text-align: center;
 }
 
 .inline {
@@ -140,3 +133,29 @@ body {
     padding: 8px;
     background: gray;
 }
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    font-family: 'Noto Serif', sans-serif;
+}
+
+blockquote {
+    font-family: 'Raleway', sans-serif;
+    color: dimgrey;
+    line-height: 1.5;
+    word-spacing: 0.5em;
+    text-align: justify;
+}
+
+h4 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+}
+
