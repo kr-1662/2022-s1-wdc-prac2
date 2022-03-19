@@ -143,11 +143,11 @@ h2 {
 }
 
 blockquote {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway';
     color: dimgrey;
     line-height: 1.5;
     word-spacing: 0.5em;
-    text-align: justify;
+    text-justify: inter-word;
 }
 
 h4 {
