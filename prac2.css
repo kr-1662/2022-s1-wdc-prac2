@@ -93,13 +93,13 @@ body {
 
 .outerdiv1 {
     background-color: blue;
-    border: solid red;
+    border: 1px solid red;
 }
 
 .innerdiv1 {
-    width: 697px;
-    border: solid red;
-    height: 197px;
+    width: 658px;
+    border: 1px solid red;
+    height: 178px;
     padding: 12px;
     margin: 10px 20px;
     text-align: right;
