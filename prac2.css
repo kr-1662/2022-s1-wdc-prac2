@@ -97,9 +97,9 @@ body {
 }
 
 .innerdiv1 {
-    width: 633px;
+    width: 688px;
     border: solid red;
-    height: 153px;
+    height: 188px;
     padding: 12px;
     margin: 10px 20px;
     text-align: right;
@@ -143,11 +143,11 @@ h2 {
 }
 
 blockquote {
-    font-family: 'Raleway';
+    font-family: 'Raleway', serif;
     color: dimgrey;
     line-height: 1.5;
     word-spacing: 0.5em;
-    text-justify: inter-word;
+    text-align: justify;
 }
 
 h4 {
