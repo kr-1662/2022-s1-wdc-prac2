@@ -109,13 +109,13 @@ body {
 
 .outerdiv2 {
     background: blue;
-    border: 1px solid red;
+    border: solid red;
     margin-top: 20px;
 }
 
 .innerdiv2 {
-    height: 376px;
-    width: 376px;
+    height: 397px;
+    width: 397px;
     padding: 12px;
     margin: auto;
     background-color: yellow;
