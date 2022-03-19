@@ -97,9 +97,9 @@ body {
 }
 
 .innerdiv1 {
-    width: 660px;
+    width: 700px;
     border: solid red;
-    height: 180px;
+    height: 200px;
     padding: 12px;
     margin: 10px 20px;
     text-align: right;
